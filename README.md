@@ -10,7 +10,6 @@ A very profesional rundown video (click on the brain)...
 
 # Meet the Dev team
 System.out.println ("Adrian " + " Mantas " + " Reinhald");
-CCCCCCCCCCCCCCCCCCCCC
 
 # Final idea (for now)
 
