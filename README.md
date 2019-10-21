@@ -6,7 +6,7 @@ The frontier in developing with unconventional ideas.
 
 A very profesional rundown video (click on the brain)...
 
-[![]()](https://www.youtube.com/watch?v=Sm_Ofe0qc5M)
+[![](https://i.imgur.com/0tJhXQk.jpeg)](https://www.youtube.com/watch?v=Sm_Ofe0qc5M)
 
 # Meet the Dev team
 System.out.println ("Adrian " + " Mantas " + " Reinhald");
