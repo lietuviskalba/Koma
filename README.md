@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Woke Cheese
 
-You can use the [editor on GitHub](https://github.com/lietuviskalba/koma/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The frontier in developing with unconventional ideas.
+
+## Brainstorm session
+
+A very profesional rundown
+[![](https://www.petmd.com/sites/default/files/petmd-puppy-weight.jpg)](https://www.youtube.com/watch?v=Sm_Ofe0qc5M)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
