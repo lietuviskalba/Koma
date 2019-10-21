@@ -5,7 +5,11 @@ The frontier in developing with unconventional ideas.
 ## Brainstorm session
 
 A very profesional rundown
+<<<<<<< HEAD
 [![](https://www.petmd.com/sites/default/files/petmd-puppy-weight.jpg)](https://www.youtube.com/watch?v=Sm_Ofe0qc5M)
+=======
+https://www.youtube.com/watch?v=Sm_Ofe0qc5M
+>>>>>>> b61959e2aff9d67de46383c1d403d4a388677fc8
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
