@@ -1,46 +1,22 @@
-## Welcome to Woke Cheese
+# Welcome to Woke Cheese
 
 The frontier in developing with unconventional ideas.
 
-## Brainstorm session
+# Brainstorm session
 
-A very profesional rundown
-<<<<<<< HEAD
-[![](https://www.petmd.com/sites/default/files/petmd-puppy-weight.jpg)](https://www.youtube.com/watch?v=Sm_Ofe0qc5M)
-=======
-https://www.youtube.com/watch?v=Sm_Ofe0qc5M
->>>>>>> b61959e2aff9d67de46383c1d403d4a388677fc8
+A very profesional rundown video (click on the brain)...
+
+[![](https://drive.google.com/open?id=1ejyfY-f8S6X8aH0gdqqPXACiSjFWVUZ7)](https://www.youtube.com/watch?v=Sm_Ofe0qc5M)
+
+# Meet the Dev team
+System.out.println ("Adrian " + " Mantas " + " Reinhald");
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Final idea (for now)
 
+A board shaped like the brain of a mouse in a soviet research laboratory. You can see the brain of the mouse. As the player, you start at the spine of the brain. On the brain you can move by nodes, one per turn. These nodes are scattered through the brain. You move through them to get to one of the 3 bigger nodes marked with an “S” on them. You do that to bring salt cards to them. Each player starts off with a random dice roll of salt (1 pip = 1 ml g of salt). Each node requires a specific amount of salt. You figure that out for each node, by rolling the dice 3 times for each “S” node. As you draw cards moving each node, there is a chance to draw a bacteria card, which you will have to face in battle. You battle bacteria through a six sided dice and follow the fighting guide for that bacteria, by reading what's written on the card. You beat the game once you deliver the salt to the node.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lietuviskalba/koma/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Play testing
+Comming soon...
