@@ -6,11 +6,11 @@ The frontier in developing with unconventional ideas.
 
 A very profesional rundown video (click on the brain)...
 
-![](https://www.youtube.com/watch?v=Sm_Ofe0qc5M)
+[![]()](https://www.youtube.com/watch?v=Sm_Ofe0qc5M)
 
 # Meet the Dev team
 System.out.println ("Adrian " + " Mantas " + " Reinhald");
-AAAAAAAAAAAAAAAAAAAAAAAa
+CCCCCCCCCCCCCCCCCCCCC
 
 # Final idea (for now)
 
