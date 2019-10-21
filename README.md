@@ -6,12 +6,10 @@ The frontier in developing with unconventional ideas.
 
 A very profesional rundown video (click on the brain)...
 
-[![](https://drive.google.com/open?id=1ejyfY-f8S6X8aH0gdqqPXACiSjFWVUZ7)](https://www.youtube.com/watch?v=Sm_Ofe0qc5M)
+[![](https://drive.google.com/file/d/1ejyfY-f8S6X8aH0gdqqPXACiSjFWVUZ7/view?usp=sharing)](https://www.youtube.com/watch?v=Sm_Ofe0qc5M)
 
 # Meet the Dev team
 System.out.println ("Adrian " + " Mantas " + " Reinhald");
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 # Final idea (for now)
 
