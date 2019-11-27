@@ -4,10 +4,10 @@ The frontier in developing with unconventional ideas.
 
 # Links
 
-To brainstorm session:
-To playtest session:
-To game rules:
-To google form: 
+To [Brainstorm session](https://www.google.com)
+To [Playtest session](https://www.google.com)
+To [Game rules](https://www.google.com)
+To [Google form results](https://www.google.com)
 
 # Brainstorm session
 
@@ -38,7 +38,7 @@ And that is OUR playtest session.
 #Prototype
 
 ![](https://imgur.com/OdysQMv.jpeg)
-![]https://imgur.com/fcd0Ck6.jpeg)
+![](https://imgur.com/fcd0Ck6.jpeg)
 ![](https://imgur.com/fVgSQx8.jpeg)
 
 # Agile development with SCRUM
@@ -71,7 +71,7 @@ Have a sprint meeting (what we did, what we will do, what are the problems). Pla
 
 ### Burndown chart
 
-[!(https://imgur.com/tm6z45p.jpeg)]
+![](https://imgur.com/tm6z45p.jpeg)
 
 ## Final product
 A board game theme in soviet cold war laboratory. Where a mouse is on the operating table (the board) is dying and it’s blood cells (you, the player) try to save the comunist mouse brain. As the blood cell you jump from node to node on the board until you reach one of the salt nodes. Depending if you have the right amount of salt (based on the dice roll in the beginning of the amount of salt required per  salt node). Each node you move you draw a card and there is a chance to enter combat with a bacteria (role dice 1 by 1, depending if you kill it or lose an amount of salt). You win by delivering the right amount of salt to each node before the timer runs out.
