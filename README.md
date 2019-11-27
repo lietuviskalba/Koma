@@ -4,10 +4,10 @@ The frontier in developing with unconventional ideas.
 
 # Links
 
-To [Brainstorm session](https://www.google.com)
-To [Playtest session](https://www.google.com)
-To [Game rules](https://www.google.com)
-To [Google form results](https://www.google.com)
+..* [Brainstorm session](https://docs.google.com/document/d/1v_YqhuL_JigFlTvqzTrozEMlxsVkovGHr2SOD8H0SxA/edit?usp=sharing)
+..* [Playtest session](https://docs.google.com/document/d/1v_YqhuL_JigFlTvqzTrozEMlxsVkovGHr2SOD8H0SxA/edit?usp=sharing)
+..* [Game rules](https://docs.google.com/document/d/1h2HSlbT01QEUg0l2XOpRhuNhdml_wu0pCVPpTSUgkls/edit?usp=sharing)
+..* [Google form results](https://docs.google.com/forms/d/e/1FAIpQLSc-nc60IMnQv_l1Q0nfKf76z2vP1R8Q0bBNfrAEeiBgZNy-BA/viewform)
 
 # Brainstorm session
 
