@@ -2,6 +2,13 @@
 
 The frontier in developing with unconventional ideas.
 
+# Links
+
+To brainstorm session:
+To playtest session:
+To game rules:
+To google form: 
+
 # Brainstorm session
 
 A very profesional rundown video (click on the brain)...
@@ -28,10 +35,16 @@ Finally our dev team reflects on the feedback and comes up with improvements.
 
 And that is OUR playtest session.
 
+#Prototype
+
+[![https://imgur.com/OdysQMv.jpeg]]
+[![https://imgur.com/fcd0Ck6.jpeg]]
+[![https://imgur.com/fVgSQx8.jpeg]]
+
 # Agile development with SCRUM
 
 ## Sprint agreed rules
-	The print is conducted by team woke cheese for a board game Кома. The development team has decided that a single sprint will take no longer than 3 weeks. The roles are agreed by each team member by a democratic vote. The end product is a board game.
+The print is conducted by team woke cheese for a board game Кома. The development team has decided that a single sprint will take no longer than 3 weeks. The roles are agreed by each team member by a democratic vote. The end product is a board game.
 
 ## Roles
 Product owner: Mantas
@@ -55,6 +68,10 @@ Have a sprint meeting (what we did, what we will do, what are the problems). Pla
 
 ### Sprint #5
 Have a sprint meeting (what we did, what we will do, what are the problems). Play test ourselves. Refine the visuals. Rework problems based on feedback. Polish game. Polish story. Finish with a product.
+
+### Burndown chart
+
+[![https://imgur.com/tm6z45p.jpeg]]
 
 ## Final product
 A board game theme in soviet cold war laboratory. Where a mouse is on the operating table (the board) is dying and it’s blood cells (you, the player) try to save the comunist mouse brain. As the blood cell you jump from node to node on the board until you reach one of the salt nodes. Depending if you have the right amount of salt (based on the dice roll in the beginning of the amount of salt required per  salt node). Each node you move you draw a card and there is a chance to enter combat with a bacteria (role dice 1 by 1, depending if you kill it or lose an amount of salt). You win by delivering the right amount of salt to each node before the timer runs out.
