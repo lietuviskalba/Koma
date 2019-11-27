@@ -35,7 +35,7 @@ Finally our dev team reflects on the feedback and comes up with improvements.
 
 And that is OUR playtest session.
 
-#Prototype
+# Prototype
 
 ![](https://imgur.com/OdysQMv.jpeg)
 ![](https://imgur.com/fcd0Ck6.jpeg)
